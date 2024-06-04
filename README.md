@@ -19,8 +19,6 @@ Before you begin, ensure you have the following software installed on your compu
 
 - Sandeep Varma Kallepalli
 
-### License
 
-This project is licensed under the MIT License - see the LICENSE file for details
 
 
