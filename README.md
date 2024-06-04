@@ -21,6 +21,6 @@ Before you begin, ensure you have the following software installed on your compu
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE file for details
 
 
