@@ -15,12 +15,12 @@ Before you begin, ensure you have the following software installed on your compu
 - npm (Comes installed with Node.js)
 - Visual Studio Code (Download and install from [Visual Studio Code website](https://code.visualstudio.com/))
 
-### Installing
+### Authors
 
-Follow these steps to get a development environment running:
+- Sandeep Varma Kallepalli
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/react-tictactoe.git
+### License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
